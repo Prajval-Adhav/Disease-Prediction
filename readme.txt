@@ -1,0 +1,2 @@
+The file named "project.py" consists of the main program for disease prediction. It is reccomended to use the python 3.11 idle. 
+Before running the program please ensure you have stored the datasets called prototype_1 and prototype and program in the same folder. Also ensure all the required libraries are installed.
